@@ -1,27 +1,8 @@
-##################################################################################################
-#                                                                                                #
-#          Bitte das Package "Art" im Package Manager downloaden                                 #
-#          Bitte das Game im Terminal ausführen, sonst gehen manche Sachen nicht                 #
-#                                                                                                #
-##################################################################################################
-
 # Penarrows Adventure in Nowhere (P.A.I.N.)
 # Charakter: Penarrow
 # Stadt: Nowhere
 # Stadtspezies: Faeren //Wie Dobby's in Harry Potter// 
 # Sprache: Nowherianisch
-
-####################################################################################################################################################
-#                                                                                                                                                  #
-#                                                         Wer hat was gemacht                                                                      #
-#                                                                                                                                                  #
-#     Orcun hat den Englischen Teil der Story programmiert und Ideen zu der Story geliefert. Außerdem hat er ein paar Bilder für's pygame designt  #
-#                                                                                                                                                  #
-#     Jannik hat das Pygame und Window.py programmiert was wir aber doch nicht eingebaut haben. Und er hat bei der Story Ideen geliefert           #        
-#                                                                                                                                                  #
-#     Flo hat die Deutsche Story sich ausgedacht und programmiert und außerdem die painutilitis. Außerdem hat er beim Pygame mitgeholfen           #
-#                                                                                                                                                  #
-####################################################################################################################################################
 
 # Import
 from time import sleep
