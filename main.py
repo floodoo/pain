@@ -27,7 +27,7 @@ DELAY_LONG_S = 6
 clearscreen()
 
 # Spieletitel anzeigen
-Art=text2art('Welcome   to   P.A.I.N')
+Art=text2art('Welcome   to   P.A.I
 print(Art)
 
 # Entscheidung: Deutsch oder Englisch
